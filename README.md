@@ -3,9 +3,9 @@
 # ✦ Shanmukha Setti ✦
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Architect;Digital+Experience+Craftsman;Code+%2B+Creativity+%2B+Coffee;Building+the+Future%2C+One+Commit" alt="Typing SVG" />
+<h3 align="center">B.Tech IT Student | Full-Stack Developer | Tech Enthusiast)</h3>
 
-<h1 align="center">Hey there 👋, I'm Shanmu Setty</h1>
-<h3 align="center">B.Tech IT Student | Full-Stack Developer | AI Technology Enthusiast (of sorts)</h3>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=0D8ABC&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Cinematic+Web+Apps+%7C+React+%7C+Angular+%7C+Firebase;AI+%26+Cloud+Integration+Enthusiast;Continuous+Learner+%26+Tech+Speaker" alt="Typing animation" />
