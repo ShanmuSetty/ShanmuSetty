@@ -13,86 +13,28 @@
 
 ---
 
-### 👨‍💻 About Me
-I’m an enthusiastic **Information Technology undergraduate** passionate about building **scalable, visually engaging web applications**.  
-My work blends **clean UI/UX design, real-time data**, and **AI-enhanced features**, reflecting both creativity and technical depth.  
-Currently exploring **AI-integrated web systems, DevOps automation**, and **3D web experiences**.
 
-- 🎓 **Education:** MVSR Engineering College – CGPA: 8.63/10  
-- 🌱 **Currently Learning:** Cloud Deployment, FastAPI, Docker & Jenkins CI/CD  
-- 💬 **Ask me about:** Web Dev, Firebase, React, TMDb API, Cloud Integration  
-- ⚡ **Fun Fact:** I blend cinematic themes into my web designs  
+# 💫 About Me:
+🔭 I’m currently working on: Building full-stack web apps with React, Node.js, and Firebase, integrating AI features.<br>👯 I’m looking to collaborate on: Innovative web projects involving real-time data, cloud deployment, or creative UI/UX experiences.<br>🤝 I’m looking for help with: Exploring advanced CI/CD pipelines and scalable cloud architecture using Docker and Jenkins.<br>🌱 I’m currently learning: FastAPI, AWS, and modern deployment strategies to streamline full-stack workflows.<br>⚡ Fun fact: I love adding cinematic themes and 3D effects to web apps — turning code into visual storytelling.
 
----
 
-### 🧠 Tech Stack
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shanmu_setty) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Shanmukha Setti) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@shanmusetty) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shanmusetty@gmail.com) 
 
-**Languages:**  
-`Java` • `HTML/CSS` • `JavaScript` • `Python` • `C/C++`
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ShanmuSetty&theme=kacho_ga&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ShanmuSetty&theme=kacho_ga&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShanmuSetty&theme=kacho_ga&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-**Frameworks & Technologies:**  
-`React` • `Node.js` • `Tailwind CSS` • `Three.js` • `Firebase` • `FastAPI` • `Docker` • `Jenkins` • `CI/CD` • `REST APIs`
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ShanmuSetty&theme=kacho_ga&no-frame=false&no-bg=false&margin-w=4)
 
-**Developer Tools:**  
-`VS Code` • `IntelliJ` • `GitHub` • `Git` • `Netlify` • `Firebase Console` • `Google Cloud Console` • `Postman`
-
-**Databases:**  
-`Firebase Realtime Database` • `PostgreSQL`
-
-**Core Concepts:**  
-`Data Structures` • `Algorithms` • `Database Management` • `Computer Networks` • `Artificial Intelligence` • `Software Engineering` • `Internet Technology`
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ShanmuSetty&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=ShanmuSetty&icon=5&color=2)](https://visitcount.itsvg.in)
 
-### 🏗️ Featured Projects
-
-#### 🎬 [Chithram](https://github.com/ShanmuSetty/Chithram)
-*Technologies:* React, Node.js, Firebase, Three.js, TMDb API, Gemini AI, Netlify  
-- Developed a **full-stack cinematic web app** celebrating Indian cinematography.  
-- Integrated **Firebase Realtime Database** with **TMDb and Gemini APIs** for AI-powered film data.  
-- Built a **3D Three.js landing page** and interactive map for immersive visuals.  
-- Optimized and deployed via **Netlify CI/CD** for fast, scalable performance.
-
-#### 🍿 [CineSearch - Movie Browser](https://github.com/ShanmuSetty/CineSearch)
-*Technologies:* React, Tailwind CSS, Node.js, TMDb API, Google Gemini, Netlify  
-- Built a **responsive movie discovery platform** with rich UI/UX.  
-- Integrated **TMDb API** & **Gemini AI** for detailed, dynamic content.  
-- Deployed using **Netlify CI/CD**, ensuring speed and reliability.
-
-#### 🧭 [PracSphere - Internship Project](https://github.com/ShanmuSetty/PracSphere)
-*Technologies:* Next.js, TypeScript, Tailwind CSS, MongoDB, NextAuth, Vercel  
-- Created a **task management system** with full CRUD operations and user-specific dashboards.  
-- Secured auth with **NextAuth**, ensuring robust session handling.  
-- Used **Tailwind CSS** for clean, responsive design across devices.
-
----
-
-### 🏅 Leadership & Achievements
-- 🎙️ **Student Speaker** – Delivered an 18-hour hands-on seminar on **HTML, CSS, JS, and Firebase** (Oct–Nov 2024)  
-- 🥇 **Winner – Mini Project Expo** – *Project: Chithram* (Feb 2024)  
-- 💡 **Hackathon Coordinator** – MVSR Engineering College (Aug 2025)  
-
----
-
-### 🌐 Connect with Me
-<p align="center">
-  <a href="https://linkedin.com/in/shanmukha-setti"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:shanmusetty@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/ShanmuSetty"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShanmuSetty&show_icons=true&theme=tokyonight" alt="GitHub stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShanmuSetty&theme=tokyonight" alt="GitHub streak" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShanmuSetty&layout=compact&theme=tokyonight" height="150"/>
-</p>
-
-
-
-⭐ **If you like my work, consider starring my repos or connecting with me on LinkedIn!**
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
