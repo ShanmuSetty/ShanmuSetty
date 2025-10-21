@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer;Digital+Experience+Craftsman;Code+%2B+Creativity+%2B+Coffee;Building+the+Future%2C+One+Commit" alt="Typing SVG" />
 <h3 align="center">B.Tech IT Student | Full-Stack Developer | Tech Enthusiast</h3>
 
-
+<img src="https://freelink.site/wp-content/uploads/2025/03/compressed_thumb.png"/>
 
 # About Me:
 I’m currently working on: Building full-stack web apps with React, Node.js, and Firebase, integrating AI features.<br>I’m looking to collaborate on: Innovative web projects involving real-time data, cloud deployment, or creative UI/UX experiences.<br>I’m looking for help with: Exploring advanced CI/CD pipelines and scalable cloud architecture using Docker and Jenkins.<br>I’m currently learning: FastAPI, AWS, and modern deployment strategies to streamline full-stack workflows.<br>Fun fact: I love adding cinematic themes and 3D effects to web apps — turning code into visual storytelling.
