@@ -93,11 +93,6 @@ Currently exploring **AI-integrated web systems, DevOps automation**, and **3D w
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShanmuSetty&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
----
 
-### ✨ Quote
-> *“Great design is born of clarity and emotion — I aim to bring both into every line of code.”*
-
----
 
 ⭐ **If you like my work, consider starring my repos or connecting with me on LinkedIn!**
