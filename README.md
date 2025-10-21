@@ -38,12 +38,6 @@
 | 🌦️ **Weather App** | ReactJS app using Weather & Geo APIs with 5-day forecast | [Live Site](#) |
 | 🧮 **Student Performance Classification (ML)** | Predicts student outcomes using data preprocessing & EDA | [Repo](#) |
 
----
-
-## 📊 GitHub Stats
-
-![Shanmu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shanmu-Setty&show_icons=true&theme=tokyonight&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shanmu-Setty&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
