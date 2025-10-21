@@ -8,10 +8,7 @@
 
 ## 🧠 About Me
 
-- 🎓 3rd-year **IT Student** from Hyderabad  
-- 💻 Currently working with **MERN Stack** & **Angular**  
-- 🔬 Exploring **Machine Learning** + **AI integrations**  
-- 🎥 Creator of projects like `Chithram`, `AI Timetable & Resource Allocation`, and more  
+- 🎓 4th-year **IT Student** from Hyderabad  
 - ⚙️ Passionate about blending **tech + creativity**  
 - ☕ Runs on **brewed coffee** and clean commits  
 
@@ -23,13 +20,13 @@
 `ReactJS` · `NextJS` · `Angular` · `HTML` · `CSS` · `JavaScript` · `Tailwind`
 
 **Backend:**  
-`NodeJS` · `ExpressJS` · `Firebase` · `MongoDB` · `Mongoose`
+`NodeJS` · `ExpressJS` · `Firebase` · `MongoDB` 
 
 **ML / Data:**  
 `Python` · `Pandas` · `NumPy` · `Matplotlib`
 
 **Other Tools:**  
-`Git` · `VS Code` · `Postman` · `Netlify` · `Render` · `Figma`
+`Git` · `VS Code` · `Postman` · `Netlify` · `Render` 
 
 ---
 
@@ -38,7 +35,6 @@
 | 🧩 Project | 💡 Description | 🔗 Link |
 |-------------|----------------|---------|
 | 🎬 **Chithram** | A visual journey into Indian cinematography featuring gallery, trivia, and quizzes | [Repo](#) |
-| 🤖 **AI Timetable & Resource Allocator** | Smart scheduling using Gemini API, Firebase & NLP | [Repo](#) |
 | 🌦️ **Weather App** | ReactJS app using Weather & Geo APIs with 5-day forecast | [Live Site](#) |
 | 🧮 **Student Performance Classification (ML)** | Predicts student outcomes using data preprocessing & EDA | [Repo](#) |
 
@@ -63,9 +59,8 @@
 ## 🌐 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Shanmu-Setty)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](#)
-[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shanmukha-setti/)
+[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](shanmusetty@gmail.com)
 
 ---
 
