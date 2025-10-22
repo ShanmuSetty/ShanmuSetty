@@ -88,7 +88,7 @@ I’m currently learning: FastAPI, AWS, and modern deployment strategies to stre
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=ShanmuSetty&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+
 
 ![](https://nirzak-streak-stats.vercel.app/?user=ShanmuSetty&theme=radical&hide_border=true)
 
