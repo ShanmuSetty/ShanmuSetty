@@ -100,9 +100,6 @@ I’m currently learning: FastAPI, AWS, and modern deployment strategies to stre
 
 <div align="center">
 
-### 💭 Quote of the Day
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🏆 GitHub Trophies
 
