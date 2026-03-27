@@ -99,13 +99,6 @@ I’m currently learning: FastAPI, AWS, and modern deployment strategies to stre
 
 <div align="center">
 
-
-### 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=ShanmuSetty&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
------
-
 ### ✨ Profile Views
 
 ![](https://komarev.com/ghpvc/?username=ShanmuSetty&color=ff6b35&style=for-the-badge)
